@@ -1,0 +1,106 @@
+PipeView — License (Free Use)
+Copyright © 2026 Johannes Schmidt. All rights reserved.
+
+PipeView is proprietary software made available free of charge. By installing,
+copying, or otherwise using PipeView (the "Software"), you agree to the terms
+below. If you do not agree, do not install or use the Software.
+
+NOTE: This is a template license. Have it reviewed by qualified legal counsel
+before any broad public distribution, and replace it with a commercial End User
+License Agreement before charging any fee for the Software (see Section 1).
+
+1. NO CHARGE / NON-COMMERCIAL OFFERING
+   The Software is currently offered to you at no charge for your own use. This
+   license does not grant you any right to sell, resell, or otherwise commercially
+   distribute the Software. Johannes Schmidt ("Licensor") reserves the right to
+   offer the Software, or future versions, under different (including commercial)
+   terms.
+
+2. LICENSE GRANT
+   Subject to your compliance with this license, Licensor grants you a
+   non-exclusive, non-transferable, revocable, royalty-free license to download,
+   install, and use the Software for your personal or internal business purposes.
+
+3. OWNERSHIP
+   The Software is licensed, not sold or assigned. Licensor retains all right,
+   title, and interest in and to the Software, including all intellectual property
+   rights. No rights are granted except as expressly set out in this license.
+
+4. RESTRICTIONS
+   You may not, except to the extent permitted by mandatory applicable law:
+   (a) sell, resell, rent, lease, lend, or otherwise commercially distribute the
+       Software;
+   (b) redistribute, republish, or sublicense the Software to third parties;
+   (c) reverse engineer, decompile, or disassemble the Software;
+   (d) modify, adapt, or create derivative works of the Software;
+   (e) remove or alter any proprietary notices, labels, or marks;
+   (f) use the Software to provide a commercial service to third parties without
+       the prior written permission of Licensor.
+
+5. THIRD-PARTY COMPONENTS
+   The Software incorporates third-party open-source components that are licensed
+   under their own terms. Those terms are reproduced in the accompanying
+   THIRD-PARTY-NOTICES.md file and prevail over this license with respect to
+   those components. Nothing in this license limits your rights under, or grants
+   you rights in excess of, those third-party licenses.
+
+6. HL7® STANDARD MATERIAL
+   The Software displays data structures, field descriptions, and code tables
+   derived from the HL7v2 messaging standard. HL7® and Health Level Seven® are
+   registered trademarks of Health Level Seven International. The underlying HL7
+   standard material is copyrighted by Health Level Seven International, all
+   rights reserved. PipeView is not certified, endorsed by, or affiliated with
+   HL7 International. You are responsible for holding any HL7 license required for
+   your use of the standard material in your jurisdiction.
+
+7. NOT A MEDICAL DEVICE
+   The Software is a developer, integration, and educational tool for inspecting
+   HL7v2 messages. It is NOT a medical device within the meaning of Regulation
+   (EU) 2017/745 (MDR) or comparable laws, and is NOT intended for use in
+   diagnosis, treatment, clinical decision-making, or any patient-care purpose.
+   Do not rely on the Software for any clinical or safety-critical decision.
+
+8. DATA / PRIVACY
+   The Software processes message content locally on your device. It is your
+   responsibility to ensure that your use of the Software with any real patient
+   data or other personal/protected health information complies with all
+   applicable data-protection laws (including the GDPR/DSGVO and, where
+   applicable, HIPAA).
+
+9. DISCLAIMER OF WARRANTY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+   "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. LICENSOR
+   DOES NOT WARRANT THAT THE SOFTWARE'S PARSING, VALIDATION, OCR, OR REFERENCE
+   OUTPUT IS CORRECT OR COMPLETE.
+
+10. LIMITATION OF LIABILITY
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE
+    LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+    DAMAGES, OR ANY LOSS OF DATA, PROFITS, OR REVENUE, ARISING OUT OF OR RELATED
+    TO THE USE OF OR INABILITY TO USE THE SOFTWARE. BECAUSE THE SOFTWARE IS
+    PROVIDED FREE OF CHARGE, LICENSOR'S LIABILITY IS LIMITED TO THE FULLEST
+    EXTENT PERMITTED BY LAW.
+
+    MANDATORY LAW CARVE-OUT: Nothing in this license excludes or limits
+    Licensor's liability where such exclusion or limitation is not permitted by
+    mandatory applicable law — in particular, under German law, liability for
+    intent (Vorsatz) and gross negligence (grobe Fahrlässigkeit), liability for
+    injury to life, body, or health, and liability under the German Product
+    Liability Act (Produkthaftungsgesetz) remains unaffected.
+
+11. TERM AND TERMINATION
+    This license is effective until terminated. It terminates automatically if
+    you breach any of its terms. Upon termination you must cease all use of the
+    Software and delete all copies.
+
+12. GOVERNING LAW
+    This license is governed by the laws of the Federal Republic of Germany,
+    excluding its conflict-of-law rules and the UN Convention on Contracts for
+    the International Sale of Goods (CISG). Mandatory consumer-protection
+    provisions of your country of residence remain unaffected.
+
+13. CONTACT
+    Johannes Schmidt
+    johannes.schmidt.dev@gmail.com
