@@ -1,0 +1,63 @@
+PipeView
+Copyright © 2026 Johannes Schmidt. All rights reserved.
+
+This product is proprietary software, provided free of charge (see LICENSE). It
+includes third-party
+open-source components. A complete list of components, their versions, licenses,
+and full license texts is provided in THIRD-PARTY-NOTICES.md.
+
+The notices below are required attributions for selected bundled components.
+
+================================================================================
+Apache License 2.0 components (NOTICE — Section 4(d))
+================================================================================
+
+PaddleOCR (PP-OCRv4 detection & recognition models, character dictionary)
+  Copyright PaddlePaddle Authors.
+  Licensed under the Apache License, Version 2.0.
+  https://github.com/PaddlePaddle/PaddleOCR
+  The bundled ONNX model files (static/ocr/ch_PP-OCRv4_det_infer.onnx,
+  ch_PP-OCRv4_rec_infer.onnx) were converted to the ONNX format for use with
+  ONNX Runtime; the underlying trained models are the PaddleOCR PP-OCRv4 models.
+
+ONNX Runtime
+  Copyright (c) Microsoft Corporation.
+  Licensed under the Apache License, Version 2.0 (npm package: MIT-licensed
+  JavaScript bindings; see THIRD-PARTY-NOTICES.md).
+  https://github.com/microsoft/onnxruntime
+
+OpenCV.js (@techstark/opencv-js)
+  Copyright OpenCV contributors.
+  Licensed under the Apache License, Version 2.0.
+
+Tauri
+  Copyright (c) The Tauri Programme within The Commons Conservancy.
+  Dual-licensed under Apache License 2.0 / MIT.
+  https://github.com/tauri-apps/tauri
+
+================================================================================
+MPL-2.0 components (weak copyleft, used unmodified)
+================================================================================
+
+The following Rust crates are covered by the Mozilla Public License 2.0:
+  cssparser, cssparser-macros, dtoa-short, option-ext, selectors
+
+They are used unmodified as transitive dependencies. The MPL-2.0 requires that
+the source of these (unmodified) files remain available; it is published by the
+respective authors on crates.io / their upstream repositories. No PipeView source
+code is affected by the MPL-2.0.
+
+================================================================================
+HL7® standard material
+================================================================================
+
+PipeView displays HL7v2 message, segment, field, and table definitions derived
+from material copyrighted by Health Level Seven International, all rights
+reserved. HL7® and Health Level Seven® are registered trademarks of Health Level
+Seven International. PipeView is not certified, endorsed by, or affiliated with
+HL7 International.
+
+The HL7 definition data is sourced via the npm package "hl7-dictionary"
+(MIT-licensed compilation by Fernando Serrano). The MIT license of that package
+applies to the compilation; the underlying HL7 standard content remains subject
+to HL7 International's intellectual-property terms.
